@@ -9,11 +9,11 @@ const images = [
 
 // content setup
 const texts = [
-  ["Mirrorless ", "Take your vision into a picture"],
-  ["Leica M6", "Capture the moment you want"],
-  ["Camera", "Blur the background to focus your point"],
-  ["Glowing ", "Glow your future like this phone"],
-  ["Broken ", "Don't be the broken one"],
+  ["The God's Rank Awakening ", "In 2120 CE, hell portals rip open—Aditya defies Asura King Kanasura in crimson ruins. Ranks clash, destinies ignite. Dive into the multiverse war"],
+  ["Aditya ", "The killer from Earth Venta"],
+  ["Armaan ", "Aditya's Best Friend and Comrade-in-arms"],
+  ["The Killers Association ", "Manage The Killers"],
+  ["Kanasura ", "Leader of Asura"],
 ];
 
 // init plugin
@@ -73,3 +73,4 @@ rgbKineticSlider = new rgbKineticSlider({
   textSubTitleOffsetTop: 90, // subtitle offset top
   mobileTextSubTitleOffsetTop: 90, // mobile subtitle offset top
 });
+
